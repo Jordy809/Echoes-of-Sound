@@ -1,0 +1,52 @@
+# Echoes of Sound 
+
+Echoes of Sound is a modern music-history website designed to explore some of the world's most fascinating instruments — from ancient flutes and primitive drums to classical orchestral masterpieces.
+
+Built using HTML, CSS, and JavaScript, the project combines a clean black-and-grey aesthetic with interactive card-based design to create an engaging and educational experience for users.
+
+---
+
+## Website Purpose
+
+The goal of this project is to:
+
+- Teach users about musical instruments and their history
+- Explore some of the oldest known instruments in human civilization
+- Practice front-end web development skills
+- Create a visually clean and responsive website layout
+
+---
+
+## Features
+
+- Responsive card-based instrument gallery
+- Individual pages for ancient instruments
+- Modern dark-themed design
+- Smooth hover effects
+- Informative descriptions and historical context
+- Mobile-friendly layout
+- Organized project structure
+
+---
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+##  Ancient Instrument Pages
+
+The website contains dedicated pages for:
+
+- Ancient Flutes
+- Primitive Drums
+- Early Harps
+- Greek Lyres
+
+Each page explores:
+- Historical origins
+- Cultural significance
+- Construction and materials
+- Influence on modern music
+
