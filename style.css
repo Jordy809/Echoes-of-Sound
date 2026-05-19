@@ -73,12 +73,37 @@ gap: 30px;
 }
 
 .card h3 {
-    padding: 15px;
+
+    font-size: 1rem;
+
+    margin-bottom: 10px;
+
+    font-weight: 600;
+
+    letter-spacing: 1px;
+}
+
+.card h3 a {
+
+    color: white;
+
+    text-decoration: none;
+
+    transition: 0.3s;
+}
+
+.card h3 a:hover {
+
+    color: #999;
 }
 
 .card p {
-    padding: 0 15px 20px;
+
     color: #bbb;
+
+    line-height: 1.6;
+
+    font-size: 0.95rem;
+
+    text-align: left;
 }
-
-
